@@ -1,3 +1,27 @@
+# eloquent-app-practice
+
+## 概要
+COACHTECH 教材 Tutorial 9-4「Eloquent ORM ハンズオン演習」で作成した成果物です。
+今回作成したのは記事の投稿（新規作成）、編集、削除ができるアプリです。
+演習と違うところはソフトデリートを組み込みました。
+
+## 使用技術
+- PHP 8.2
+- Laravel 10.0
+- Eloquent ORM
+- MySQL
+
+## 学んだこと
+- Eloquent ORM の操作について
+- ソフトデリート実装方法
+- 実装した際のエラー対処（countがnullがありエラーを起こしていた。 ??[]をつけてみて解決した）
+  
+
+## 動作確認
+http://localhost/postsにアクセスして動作を確認してみた。
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
